@@ -1,0 +1,17 @@
+# For more information: 'haraka -h access'
+#
+# addresses are matched exactly as written on each line.
+admin@xn--80aaabxcifp1dgsn1e.xn--p1ai
+admin@used-part.ru
+webmaster@xn--80aaabxcifp1dgsn1e.xn--p1ai
+webmaster@used-part.ru
+postmaster@xn--80aaabxcifp1dgsn1e.xn--p1ai
+postmaster@used-part.ru
+admininstrator@xn--80aaabxcifp1dgsn1e.xn--p1ai
+admininstrator@used-part.ru
+root@xn--80aaabxcifp1dgsn1e.xn--p1ai
+root@used-part.ru
+support@xn--80aaabxcifp1dgsn1e.xn--p1ai
+support@used-part.ru
+hostmaster@xn--80aaabxcifp1dgsn1e.xn--p1ai
+hostmaster@used-part.ru

@@ -1,0 +1,9 @@
+{
+  'admin': {'action': 'alias', 'to': 'bromshveiger@gmail.com'},
+  'webmaster': {'action': 'alias', 'to': 'bromshveiger@gmail.com'},
+  'postmaster': {'action': 'alias', 'to': 'bromshveiger@gmail.com'},
+  'admininstrator': {'action': 'alias', 'to': 'bromshveiger@gmail.com'},
+  'root': {'action': 'alias', 'to': 'bromshveiger@gmail.com'},
+  'support': {'action': 'alias', 'to': 'bromshveiger@gmail.com'},
+  'hostmaster': {'action': 'alias', 'to': 'bromshveiger@gmail.com'},
+}

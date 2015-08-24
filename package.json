@@ -1,0 +1,9 @@
+{
+  "name": "haraka_local",
+  "description": "An SMTP Server",
+  "version": "0.0.1",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "request": "^2.60.0"
+  }
+}
